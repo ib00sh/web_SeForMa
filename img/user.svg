@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-28.6730963%" y1="50%" x2="78.6022646%" y2="51.5133932%" id="linearGradient-1">
+            <stop stop-color="#F5E4A8" offset="0%"></stop>
+            <stop stop-color="#D4AC4F" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="2.73236963%" y1="0%" x2="93.5389349%" y2="97.3833436%" id="linearGradient-2">
+            <stop stop-color="#F5E4A8" offset="0%"></stop>
+            <stop stop-color="#D4AC4F" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(4.000000, 3.000000)">
+            <g id="Group">
+                <rect id="Rectangle-Copy" stroke="#1B1B1B" x="0.5" y="4.06684492" width="18.4331551" height="18.4331551"></rect>
+                <rect id="Rectangle" fill="#1B1B1B" x="3.56684492" y="0" width="19.4331551" height="19.4331551"></rect>
+                <path d="M10.6646827,14.697861 C9.076357,14.697861 8.0357298,13.6412251 7.99465241,12.04941 L8.84358513,12.04941 C8.88466252,13.2432713 9.56928568,13.8745083 10.6372978,13.8745083 C11.8011572,13.8745083 12.3762406,13.1472135 12.3762406,12.1043002 C12.3762406,9.88124807 8.13157704,9.86752552 8.13157704,7.08184912 C8.13157704,5.76448491 9.13112686,4.73529412 10.6099129,4.73529412 C12.1160838,4.73529412 13.0471713,5.80565254 13.1156337,7.31513236 L12.2667009,7.31513236 C12.2119311,6.1075485 11.5546928,5.55864675 10.6372978,5.55864675 C9.59667061,5.55864675 8.99420222,6.16243868 8.99420222,7.08184912 C8.99420222,9.30490122 13.2388658,9.22256596 13.2388658,12.1043002 C13.2388658,13.4079418 12.3488557,14.697861 10.6646827,14.697861 Z M18.5721925,5.69587219 L15.0943069,5.69587219 L15.0943069,9.38723649 L18.3394206,9.38723649 L18.3394206,10.1694215 L15.0943069,10.1694215 L15.0943069,14.5194679 L14.2453741,14.5194679 L14.2453741,4.91368719 L18.5721925,4.91368719 L18.5721925,5.69587219 Z" id="SF" fill="url(#linearGradient-1)"></path>
+            </g>
+            <rect id="Rectangle" fill="#1B1B1B" x="2" y="6" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-2" fill="#1B1B1B" x="2" y="8" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-4" fill="#1B1B1B" x="2" y="10" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-3" fill="#1B1B1B" x="2" y="12" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-6" fill="#1B1B1B" x="2" y="14" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-5" fill="#1B1B1B" x="2" y="16" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-14" fill="#1B1B1B" x="2" y="18" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-7" fill="#1B1B1B" x="4" y="20" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-16" fill="#1B1B1B" x="2" y="20" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-8" fill="#1B1B1B" x="6" y="20" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-9" fill="#1B1B1B" x="8" y="20" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-10" fill="#1B1B1B" x="10" y="20" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-11" fill="#1B1B1B" x="12" y="20" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-13" fill="#1B1B1B" x="14" y="20" width="1" height="1"></rect>
+            <rect id="Rectangle-Copy-15" fill="#1B1B1B" x="16" y="20" width="1" height="1"></rect>
+        </g>
+        <rect id="Rectangle-Copy-12" fill="url(#linearGradient-2)" opacity="0.59702846" x="9" y="5" width="2" height="2" rx="1"></rect>
+    </g>
+</svg>
